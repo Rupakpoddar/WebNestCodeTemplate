@@ -3,9 +3,9 @@
 <a href="https://github.com/Rupakpoddar/WebNestCodeTemplate/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge" alt="License">
 </a>
-<img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge" alt="Contributions Welcome">
+<img src="https://img.shields.io/badge/contributions-welcome-purple.svg?style=for-the-badge" alt="Contributions Welcome">
 
-**WebNest** is a rapid, straightforward solution for implementing home automation or remote device control using Firebase or a local server. It allows for quick prototyping and real-time updates without extensive setup or configuration.
+**[WebNest](https://rupakpoddar.github.io/WebNest/)** is a rapid, straightforward solution for implementing home automation or remote device control using Firebase or a local server. It allows for quick prototyping and real-time updates without extensive setup or configuration.
 
 ## 🚀 Features
 
@@ -13,6 +13,8 @@
 - **Flexible Backend**: Supports both Firebase and local servers for seamless data handling.
 - **Real-time Control**: Instantly update and control your devices without delays.
 - **Easy Setup**: Simply plug in your Firebase Project Reference URL or local server IP, configure permissions, and start controlling your devices.
+- **Persistent Storage**: WebNest stores device configurations directly in your browser for quick and easy access.
+- **Import/Export Configurations**: Save and share your setup with a single click using the import/export feature.
 
 ## 🛠️ Getting Started
 
@@ -41,3 +43,7 @@ To get started with Firebase, ensure your Firebase rules are set to allow public
         ".write": "true"
     }
 }
+```
+
+## 🌟 Contributions
+We welcome contributions! Feel free to open issues or submit pull requests to enhance WebNest.
