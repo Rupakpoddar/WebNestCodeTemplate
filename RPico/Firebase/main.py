@@ -64,6 +64,7 @@ import urequests
 import ujson
 import network
 import time
+import gc
 from machine import Pin
 
 # Import Wi-Fi and Firebase configuration
@@ -100,7 +101,9 @@ def main():
         response = urequests.get(FIREBASE_URL + ".json")
         if response.status_code == 200:
             json_data = response.text
+            response.close()
             WebNestDevice.poll(json_data)
+            gc.collect()
         else:
             print("Error fetching data from Firebase")
 
