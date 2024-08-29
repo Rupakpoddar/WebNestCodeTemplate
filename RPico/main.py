@@ -105,8 +105,10 @@ def main():
             print("Error fetching data from Firebase")
 
         # Display device states
+        print("Device Name\t\tState\tTemp\tPWM\tColor")
         print(f"{ambience_light.get_name()}\t\t{ambience_light.get_state()}\t{ambience_light.get_temperature()}\t{ambience_light.get_pwm()}\t{ambience_light.get_color():06X}")
         print(f"{pedestal_fan.get_name()}\t\t{pedestal_fan.get_state()}\t{pedestal_fan.get_temperature()}\t{pedestal_fan.get_pwm()}\t{pedestal_fan.get_color():06X}")
+        print()
 
         time.sleep(1)
 
