@@ -1,7 +1,7 @@
 # <img src="https://rupakpoddar.github.io/WebNest/web/favicon.png" alt="WebNest Logo" height="30" align="left"> WebNest
 
 [![License](https://img.shields.io/github/license/Rupakpoddar/WebNestCodeTemplate?style=for-the-badge&logo=github&logoColor=white&labelColor=23272E&color=007ACC)](https://github.com/Rupakpoddar/WebNestCodeTemplate/blob/main/LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-purple.svg?style=for-the-badge&labelColor=23272E)](https://github.com/Rupakpoddar/WebNestCodeTemplate/issues)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-purple.svg?style=for-the-badge&labelColor=23272E)](https://github.com/Rupakpoddar/WebNestCodeTemplate/pulls)
 
 **[WebNest](https://rupakpoddar.github.io/WebNest/)** is a rapid, straightforward solution for implementing home automation or remote device control using Firebase or a local server. It allows for quick prototyping and real-time updates without extensive setup or configuration.
 
