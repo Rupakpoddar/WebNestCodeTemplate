@@ -1,4 +1,4 @@
-# <img src="https://rupakpoddar.github.io/WebNest/web/favicon.png" alt="WebNest Logo" width="30" height="30"> WebNest
+# <img src="https://rupakpoddar.github.io/WebNest/web/favicon.png" alt="WebNest Logo" height="30" align="left"> WebNest
 
 <a href="https://github.com/Rupakpoddar/WebNestCodeTemplate/blob/main/LICENSE" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge" alt="License">
